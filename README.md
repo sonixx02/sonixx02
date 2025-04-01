@@ -21,7 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonixx02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏆 LeetCode Stats:
-![](https://leetcard.jacoblin.cool/your-username?theme=dark)
+![](https://leetcard.jacoblin.cool/Sonieng?theme=dark)
 
----
 [![](https://visitcount.itsvg.in/api?id=sonixx02&icon=0&color=0)](https://visitcount.itsvg.in)
