@@ -23,5 +23,3 @@
 # 🏆 LeetCode Stats:
 ![](https://leetcard.jacoblin.cool/Sonieng?theme=dark)
 
----
-![Visitor Count](https://profile-counter.glitch.me/{sonixx02}/count.svg)
