@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning everything. 
-🚀 I’m expanding my expertise in system design, AI integration, and scalable web architectures. 
-👯 I’m looking to collaborate on innovative projects that drive real-world impact. 
-💬 Ask me about: Web Development, JavaScript Ecosystem, Backend Technologies. 
+🌱 I’m currently learning everything.<br>
+🚀 I’m expanding my expertise in system design, AI integration, and scalable web architectures.<br>
+👯 I’m looking to collaborate on innovative projects that drive real-world impact.<br>
+💬 Ask me about: Web Development, JavaScript Ecosystem, Backend Technologies.<br> 
 ⚡ Fun fact: I love playing chess—strategizing both in code and on the board!
 
 ## 🌐 Socials:
@@ -24,4 +24,4 @@
 ![](https://leetcard.jacoblin.cool/Sonieng?theme=dark)
 
 ---
-![Visit Count](https://hits.verytools.xyz/github.com/sonixx02/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{sonixx02}/count.svg)
